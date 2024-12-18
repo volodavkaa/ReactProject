@@ -1,0 +1,26 @@
+.sidebar {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    width: 200px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif; 
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin: 10px 0;
+    cursor: pointer;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.sidebar li:hover {
+    color: #40a9ff;
+}

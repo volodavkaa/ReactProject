@@ -1,0 +1,13 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff; 
+  background-color: #1e1e1e;
+}
+
+.chart-container {
+  color: #ffffff;
+}
+
+.ant-legend-item-text {
+  color: #ffffff !important; 
+}
